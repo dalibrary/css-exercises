@@ -1,0 +1,19 @@
+p {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: rgb(206, 124, 145);
+}
+
+#id1 {
+    color: rgb(0 , 0, 255);
+    font-size: 36px;
+}
+
+.odd-cool {
+    font-size: 24px;
+}
+
+#id2 {
+    background-color: rgb(60, 179, 113);
+    font-weight: bold;
+    font-size: 24px;
+}
